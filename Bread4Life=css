@@ -1,0 +1,113 @@
+.Bread4Life{
+    text-align:center;
+   background-color:#ffe68f;
+   padding:5px;
+   border:3px dashed black;
+}
+.html{
+   background-image:url(http://www.psd-dude.com/tutorials/resources-images/food-textures-and-patterns-for-photoshop-part-2/brown-bread-seamless-pattern.jpg);
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+  font-family:'Handle',cursive;
+}
+.john{
+    text-align:right;
+}
+.quote{
+    background-color:moccasin;
+    padding:10px;
+    border-radius:5px;
+}
+.video, audio{
+    display:block;
+    margin:0 auto;
+    border:3px solid black;
+}
+.section{
+    background-color:white;
+    padding:15px;
+    border-radius:10px;
+}
+.space{
+    padding:8px;
+    border-radius:5px;
+    text-align:center;
+	background-image:url(https://st2.depositphotos.com/4966263/7336/v/950/depositphotos_73364341-stock-illustration-bakery-seamless-background.jpg);
+	border:2px solid black;
+}
+h1 span{
+    border: 4px dashed black;
+    padding:5px;
+}
+.header{
+    text-align:center;
+}
+.img-circle{
+    height:150px;
+    border-radius:50%;
+    border:4px solid white;
+    padding:2px;
+    background-color:#3b464c;
+}
+.button{
+    padding:1rem;
+    font-size:20px;
+    color:black;
+}
+.button:hover{
+    background-color:burlywood;
+    color:white;
+    border-radius:10px;
+    text-decoration:underline;
+}
+.section1{
+    background-color:white;
+    padding:25px;
+    border-radius:10px;
+}
+a{
+    text-decoration:none;
+}
+.button1{
+    padding-top:1rem;
+    padding-bottom:1rem;
+    padding-left:2rem;
+    padding-right:2rem;
+    font-size:20px;
+    color:black;
+}
+.button1:hover{
+    background-color:burlywood;
+    color:white;
+    border-radius:10px;
+    text-decoration:underline;
+}
+li{
+    margin-bottom: 15px;
+    font-weight: bold;
+    font-size:15pt;
+}
+progress {
+    width: 100%;
+    height: 30px;
+    color: #ffe68f;
+    background: #ffe68f;
+}
+progress::-webkit-progress-bar {
+    background: #ffe68f;
+}
+progress::-webkit-progress-value {
+    background: #ffe68f;
+}
+progress::-moz-progress-bar {
+    color: #ffe68f;
+    background: #ffe68f;
+}
+.copyright{
+    text-align:right;
+    font-size:15px;
+}
+.text{
+    text-align:right;
+    font-size:6px;
+}

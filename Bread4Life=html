@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html class="html">
+	<head>
+	</head>
+	<body class="body">
+    <!--header start-->
+	<div class="space">
+	    <img alt="" class="img-circle" src="https://marketplace.canva.com/MAA92jauSmE/1/thumbnail_large/canva-slice-of-bread-MAA92jauSmE.png">
+		<h1 class="Bread4Life">Bread4Life.com</h1>
+        </div>
+    <!--header end-->
+ <br/>
+  <!--Button select start-->
+  <div class="section1">
+    <a href="#quote">
+    <span class="button" > Quotes</span>
+    </a>
+    <a href="#oprah-loves-bread">
+    <span class="button1"> Oprah Loves Bread?</span>
+    </a>
+    <a href="#About-Us">
+    <span class="button" id="oprah"> About Us </span>
+    </a>
+ </div>
+    <!--Button select end-->
+  <a name="quote">
+  <br/>
+    <!--Quote start-->
+  <div class="section">
+    </a>
+    <h1 class="header"><span>Bready Quotes</span></h1>
+        <div class="quote">
+        <p>
+         <b>   "Everybody needs beauty as well as bread, places to play in and pray in, where nature may heal and give strength to body and soul."</b>
+        </p>
+        <p class="john">
+          <b>  -John Muir </b>
+        </p>
+        </div>
+        </div>
+       <!--Quote end-->
+       <br/>
+        <div class="section">
+        <!--Video start-->
+<a name="oprah-loves-bread">
+<h1 class="header"><span>Oprah Loves Bread Too!</span></h1>
+ </a>
+ <iframe height="340" width="500" src="https://www.youtube.com/embed/FX-jMOKBEmA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        </div>
+        <!--Video end-->
+        <br/>
+        <!--Resume start-->
+        <div class="section">
+            <h1 class="header"><span>The Bread Resume</span></h1>
+            <ul>
+                <li>Deliciousness<br/>
+                    <progress min="0" max="100" value="100"></progress>
+                </li>
+                <li>Awesomeness<br/>
+                    <progress min="0" max="100" value="100"></progress>
+                </li>
+                <li>Beautifulness<br/>
+                    <progress min="0" max="100" value="100"></progress>
+                </li>
+            </ul>
+        </div>
+        <!--Resume end-->
+        <br/>
+        <!--About Us start-->
+        <div class="section">
+            <a name="About-Us">
+            <h1 class="header"><span> About Us </span></h1>
+            </a>
+            <p>
+                Hello, we are the makers of Bread4Life.com. We have spent our whole lives making bread. But now,
+                we have dedicated our life to sharing the never-ending joy of bread. Bread is
+                <b>happiness</b> and bread is <b>love</b>. But most of all, bread is <b>life</b>. Now go out,
+                and spread the joys of bread.
+            </p>
+            <p class="john">
+                -The Bread Family
+            </p>
+            <img src="http://skorthodontics.com/images/family-home.png"
+            width="500">
+            <p class="text">*This is not a real webpage, the picture and "About Us" are fake</p>
+        </div>
+        <!--About Us end-->
+        <div class="copyright">
+            &copy; 2017 Bread4Life.com. All Rights UnReserved
+        </div>
+	</body>
+</html>
